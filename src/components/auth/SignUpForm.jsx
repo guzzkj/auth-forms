@@ -1,7 +1,5 @@
 import Input from '../ui/Input.jsx';
 import Button from '../ui/Button.jsx';
-import AuthDivider from './AuthDivider.jsx';
-import SocialLogin from './SocialLogin.jsx';
 
 export default function SignUpForm() {
   return (
