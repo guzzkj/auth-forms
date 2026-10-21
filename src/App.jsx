@@ -1,5 +1,5 @@
-function App() {
-  return <h1>Authentication Forms</h1>;
-}
+import AuthPage from './pages/AuthPage.jsx';
 
-export default App;
+export default function App() {
+  return <AuthPage />;
+}
